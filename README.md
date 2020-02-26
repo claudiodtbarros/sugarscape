@@ -1,9 +1,11 @@
-sugarscape
+Sugarscape
 ==========
+The present implementation aims to simulate Sugarscape model, proposed by Joshua Epstein and Robert Axtell to explore the role of social phenomenon (including migrations, pollution, sexual reproduction, combat and transmission of disease and culture), in order to extend it along the time.
 
-My implementation in Python of Epstein and Axtell's large scale agent-based computational model, the Sugarscape, to explore the role of social phenomenon such as seasonal migrations, pollution, sexual reproduction, combat, and transmission of disease and even culture.  
-In other words: Cellular Automata + Agents = Sugarscape.
+- I'm going to adapt the original code into Python 3.x.
+- Furthermore, I will improve the code to facilitate total sugar capacity, as well as include spice (main goal: introduce trading)
 
+(ORIGINAL CONTENT BELOW)
 ### Results
 
 ###### Evolution from random distribution under rules ({environment}, {agents}) = ({G1}, {M}):
